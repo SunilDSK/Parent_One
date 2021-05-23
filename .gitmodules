@@ -2,3 +2,6 @@
 	path = Child_One
 	url = git@github.com:SunilDSK/Child_One.git
 	branch = test
+[submodule "Child_Two"]
+	path = Child_Two
+	url = git@github.com:SunilDSK/Child_Two.git
