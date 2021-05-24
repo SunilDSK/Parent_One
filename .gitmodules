@@ -1,8 +1,8 @@
 [submodule "Child_One"]
 	path = Child_One
-	url = git@github.com:SunilDSK/Child_One.git
+	url = https://github.com/SunilDSK/Child_One.git 
 	branch = test
 [submodule "Child_Two"]
 	path = Child_Two
-	url = git@github.com:SunilDSK/Child_Two.git
+	url = https://github.com/SunilDSK/Child_Two.git 
 	branch = test
